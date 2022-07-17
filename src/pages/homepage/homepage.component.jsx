@@ -9,12 +9,6 @@ const HomePage = () => {
         <div className='homepage'>
             {/* <Directory /> */}
             <main>
-                <About />
-                <Features />
-                <section class="section-technology">
-                    <Directory />
-                </section>
-                <section class="section-stories"></section>
             </main>
 
         </div>

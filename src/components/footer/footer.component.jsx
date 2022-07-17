@@ -15,10 +15,10 @@ const Footer = ({ currentUser }) => (
                             INDIA
                         </li>
                         <li className="footer__item">
-                            R54, Malviya Nagar,
+                            Patna,
                         </li>
                         <li className="footer__item">
-                            New Delhi, PIN 110017
+                            Bhiar, PIN 800001
                         </li>
                     </ul>
                 </div>
@@ -33,7 +33,7 @@ const Footer = ({ currentUser }) => (
 
                         </li>
                         <li className="footer__item">
-                            +91 6364420838
+                            +91 999999999
                         </li>
                     </ul>
                 </div>
@@ -58,11 +58,7 @@ const Footer = ({ currentUser }) => (
                                     <img srcSet="assets/img/facebook_square_color.svg, assets/img/facebook_square_color.svg" height="24" width="24" alt="Full logo" src="assets/img/facebook_square_color.svg" />
                                 </picture>
                             </a>
-                            <picture className="social_logo">
-                                <source srcSet="assets/img/linkedin_square_color.svg, assets/img/linkedin_square_color.svg"
-                                    media="(max-width: 37.5em)" />
-                                <img srcSet="assets/img/linkedin_square_color.svg, assets/img/linkedin_square_color.svg" height="24" width="24" alt="Full logo" src="assets/img/linkedin_square_color.svg" />
-                            </picture>
+                           
                         </li>
 
                     </ul>
@@ -70,7 +66,7 @@ const Footer = ({ currentUser }) => (
             </div>
             <div className="col-1-of-4">
                 <p className="footer__copyright">
-                    Copyright @ Curious Ant India Pvt. Ltd. 2020
+                    Copyright @ Polutry India Pvt. Ltd. 2020
                 </p>
             </div>
 
